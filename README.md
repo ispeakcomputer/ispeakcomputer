@@ -9,4 +9,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ispeakcomputer&" alt="ispeakcomputer" /></p>
 
-[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ispeakcomputer)](https://github.com/ispeakcomputer/github-readme-activity-graph)
